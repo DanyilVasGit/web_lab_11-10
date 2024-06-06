@@ -1,0 +1,41 @@
+body {
+    background-image: url("./pepe_frog_meme_programmer.jpg");
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.5;
+    background-color: #292929;
+    color: #f7f7f7;
+  }
+  
+  p {
+    text-align: justify;
+  }
+
+  .p1 {
+    text-indent: 2em;
+    text-align: justify;
+  }
+  
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #007bff;
+  }
+  
+  img {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  a {
+    color: #ff0080;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #00b327;
+  }
+  
+  a:visited {
+    color: #8420a4;
+  }
